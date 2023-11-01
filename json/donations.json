@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "slug": "anabul-terlantar",
+        "cover": "https://images.unsplash.com/photo-1547623542-de3ff5941ddb",
+        "title": "Yuk Patungan Selamatkan Anabul Terlantar",
+        "collected": 50000,
+        "target": 1000000
+    },
+    {
+        "slug": "donation-2",
+        "cover": "https://images.unsplash.com/photo-1547623542-de3ff5941ddb",
+        "title": "donation 2",
+        "collected": 50000,
+        "target": 2000000
+    },
+    {
+        "slug": "donation-3",
+        "cover": "https://images.unsplash.com/photo-1547623542-de3ff5941ddb",
+        "title": "donation 3",
+        "collected": 50000,
+        "target": 3000000
+    }
+]
